@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="network_off">You are offline..!</string>
+    <string name="network_on">You are online..!</string>
+    <string name="lt_not_available">Geo co-ordinates not available</string>
+</resources>
